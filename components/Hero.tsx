@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
               Contact Me <ArrowRight size={16} />
             </a>
 
-            <a href="/Aman-Kumar-Resume.pdf" download className="flex items-center gap-2 px-5 py-3 bg-slate-800/50 border border-slate-600 text-white rounded-lg hover:bg-slate-800 transition-colors">
+            <a href="/assets/skills/AmanKumar.pdf" download className="flex items-center gap-2 px-5 py-3 bg-slate-800/50 border border-slate-600 text-white rounded-lg hover:bg-slate-800 transition-colors">
               Resume <Download size={16} />
             </a>
           </motion.div>
