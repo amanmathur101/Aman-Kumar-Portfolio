@@ -96,7 +96,7 @@ export const PROJECTS: Project[] = [
     title: "Portfolio Website",
     description: "A personal portfolio website showcasing skills and projects. Built with modern web technologies to demonstrate frontend proficiency.",
     technologies: ["React", "Framer Motion", "Tailwind"],
-    image: "https://picsum.photos/600/400?random=3"
+    image: "/assets/skills/PortfolioImage.png"
   }
 ];
 
